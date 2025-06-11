@@ -8,9 +8,9 @@
 
 ## 👩🏽‍🎓 À propos de moi
 
-- 🎓 Étudiante en informatique spécialisée en développement front-end et géomatique
-- 🌱 Je m’intéresse à l’accessibilité numérique, à l’UX/UI design, et à la cartographie web
-- 📍 Je combine programmation et SIG pour créer des solutions centrées sur l’humain et le territoire
+- 🎓 Étudiante en informatique spécialisée en développement front-end et géomatique  
+- 🌱 Je m’intéresse à l’accessibilité numérique, à l’UX/UI design, et à la cartographie web  
+- 📍 Je combine programmation et SIG pour créer des solutions centrées sur l’humain et le territoire  
 - 📜 Certificat C++ : [Voir sur CodinGame](https://www.codingame.com/certification/sRHHxEoFR5jt10sKEIlIlA)  
 - 📜 Certificat PHP : [Voir sur CodinGame](https://www.codingame.com/certification/1T1ik0whnGadF7AKKCUo-g)
 
@@ -30,7 +30,6 @@
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
 
-
 ---
 
 ## 📫 Me contacter
@@ -44,5 +43,11 @@
 ![niriniarisoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=niriniarisoa&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niriniarisoa&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 📊 Total de Contributions GitHub
+
+![GitHub Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=niriniarisoa&theme=github-dark&hide_border=true)
 
 ---
