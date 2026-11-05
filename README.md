@@ -34,7 +34,7 @@ I enjoy learning, experimenting with new technologies, solving problems, and bui
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact
 
 🔗 [LinkedIn](https://www.linkedin.com/in/niriniarisoa-muriella-18b5a8257)
 📧 [Email](mailto:muriellaniriniarisoa@gmail.com)
@@ -49,7 +49,7 @@ I enjoy learning, experimenting with new technologies, solving problems, and bui
 
 ---
 
-## 📊 Total de Contributions GitHub
+## 📊 Total  GitHub Contributions
 
 ![GitHub Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=niriniarisoa&theme=github-dark&hide_border=true)
 
