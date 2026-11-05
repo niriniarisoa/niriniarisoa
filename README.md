@@ -1,16 +1,18 @@
-# Hi, I'm Muriella 👩🏽‍💻🌍
+# Hey, I'm Muriella 👩🏽‍💻🌍
 
-💻 Frontend Developer & Geomaticienne passionnée par le code et la cartographie intelligente.
+💻 From **Designer** to **Developer**, then **QA Tester** — my journey in tech has always been driven by curiosity and the desire to explore new things.
 
-🔍 Je conçois des interfaces web modernes et performantes avec une touche d’analyse géospatiale grâce à mes compétences en SIG.
+I'm currently pursuing a Master's degree in Computer Science, specializing in **Geospatial Engineering and Information Technology (Geomatics)**.
+
+I'm particularly interested in GIS, remote sensing, spatial data analysis, and the ways technology can help us better understand our world.
+
+I enjoy learning, experimenting with new technologies, solving problems, and building things that make a difference.
+
+**Exploring the world through code, data, and geography.** 🌍
 
 ---
 
-## 👩🏽‍🎓 À propos de moi
-
-- 🎓 Étudiante en informatique spécialisée en développement front-end et géomatique  
-- 🌱 Je m’intéresse à l’accessibilité numérique, à l’UX/UI design, et à la cartographie web  
-- 📍 Je combine programmation et SIG pour créer des solutions centrées sur l’humain et le territoire  
+## 👩🏽‍🎓 Certificate 
 - 📜 Certificat C++ : [Voir sur CodinGame](https://www.codingame.com/certification/sRHHxEoFR5jt10sKEIlIlA)  
 - 📜 Certificat PHP : [Voir sur CodinGame](https://www.codingame.com/certification/1T1ik0whnGadF7AKKCUo-g)
 
@@ -35,6 +37,7 @@
 ## 📫 Me contacter
 
 🔗 [LinkedIn](https://www.linkedin.com/in/niriniarisoa-muriella-18b5a8257)
+📧 [Email](mailto:muriellaniriniarisoa@gmail.com)
 
 ---
 
